@@ -1,0 +1,570 @@
+{
+  "scope": "All public sample files except this inventory itself. No original source paths or hashes are included.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 103,
+      "sha256": "5af1c7d37ad3d8f9ffca0a1904cc711bff7f222245fe5108661e509d56084592"
+    },
+    {
+      "path": ".prettierrc",
+      "bytes": 52,
+      "sha256": "e51419e8206a0a5493e85ef1f4dea080982dc9187992bb253220a93d0784f6b2"
+    },
+    {
+      "path": "OMITTED-MODULES.md",
+      "bytes": 3344,
+      "sha256": "2a31318a3585f6e38b6d66d9823406bc8b15c094cfcecb7d84b01d31ec436c2f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5481,
+      "sha256": "f77e22ddede5b60bd892031d5ae98c3dd6dbb9f438fc1c6359a59cb214dd452a"
+    },
+    {
+      "path": "SANITIZATION.md",
+      "bytes": 6225,
+      "sha256": "7106653d242f5bad07982d2c2cabe7be354c30476f7acdda3b9cab29c5afa214"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "bytes": 765,
+      "sha256": "c4049ff2f0d29ef32019a7d37aef310afc338606eb837ab2fa5776aee363f55e"
+    },
+    {
+      "path": "nest-cli.json",
+      "bytes": 349,
+      "sha256": "7be80269b29eed0d4e3b97fc2efa4359ba646da462cc31fc846e4ebf33896db1"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1975,
+      "sha256": "af6cd6151569f320ac11c15d2ac8b02c85e5ccba7875ed186f546901c2186e18"
+    },
+    {
+      "path": "src/app.module.ts",
+      "bytes": 760,
+      "sha256": "5afff995eba0f8f26f822217c381000bef40f4fb76c532d0139fa118df33213d"
+    },
+    {
+      "path": "src/chat/chat.controller.ts",
+      "bytes": 7033,
+      "sha256": "09aa0e68dd656810a52388e06a5c27c8c205cc28d6b0478fde534f9aba70f21f"
+    },
+    {
+      "path": "src/chat/chat.module.ts",
+      "bytes": 407,
+      "sha256": "57f36fab42968dfafba13a776068a3e6c9a14c0d27f77510a17bfd09bb477a4a"
+    },
+    {
+      "path": "src/chat/chat.service.ts",
+      "bytes": 5335,
+      "sha256": "642e72e43077dfaa73ef1acd4a251794152c21e298b3f5d5b7522bbc3f1c5ff5"
+    },
+    {
+      "path": "src/chat/dto/chat-completion-request.schema.ts",
+      "bytes": 1895,
+      "sha256": "32b980787560b618bed49adb76f3b2d023eec0a74c2f955640d714080c9012ab"
+    },
+    {
+      "path": "src/chat/stream-backpressure.spec.ts",
+      "bytes": 745,
+      "sha256": "aa479bb073fcb73eb0e1e762b585a2d220985a1fcbf04f7c685eb678e9fa2766"
+    },
+    {
+      "path": "src/chat/stream-backpressure.ts",
+      "bytes": 636,
+      "sha256": "4ad8348cc2df96eb33b9b5228a5f4ea649f931535aad771569da691869656995"
+    },
+    {
+      "path": "src/chat/types/chat-completion.types.ts",
+      "bytes": 680,
+      "sha256": "bd90af98ae7ffc9ce14458f1b15a3d13fa6a38fe09e0e616f0223bb7ac96cb2b"
+    },
+    {
+      "path": "src/common/cancellation/request-cancellation.spec.ts",
+      "bytes": 2323,
+      "sha256": "8d65a3716e6bfe8c2313ce13f3ed3f87f50e8fe7dfa4bdc7df207e0a4b2b8583"
+    },
+    {
+      "path": "src/common/cancellation/request-cancellation.ts",
+      "bytes": 2859,
+      "sha256": "e5536fd73b0f21f44a87e18c191b409d4681852996d8b2da02e85300e33c8489"
+    },
+    {
+      "path": "src/common/guards/index.ts",
+      "bytes": 61,
+      "sha256": "77d9948f4d8f5ae4ba6af19e4d85d3ecb55e20bd9e16c831aea39967dcf38b76"
+    },
+    {
+      "path": "src/common/guards/librechat-auth.guard.ts",
+      "bytes": 1683,
+      "sha256": "60744b9f962b786891da5fdca96328ce94f09504b251b92884ebe1d79be280a5"
+    },
+    {
+      "path": "src/common/logging/app-logger.service.ts",
+      "bytes": 1250,
+      "sha256": "8ce597fd76b2d5b2fabaecddee363b9c8205bb709625fd0f4425b89c9a007439"
+    },
+    {
+      "path": "src/common/logging/index.ts",
+      "bytes": 127,
+      "sha256": "3ef14bb3b953d7a2f3a59bf285a33a95a22cf12dc7ef0b55d5fd0a0bd6c8e6b2"
+    },
+    {
+      "path": "src/common/logging/log-levels.spec.ts",
+      "bytes": 249,
+      "sha256": "ae960d82a134c5040562726b5d6b647b4b1303ad70f6400910718195d6e40ad7"
+    },
+    {
+      "path": "src/common/logging/log-levels.ts",
+      "bytes": 469,
+      "sha256": "fdde345135563b48638fac31e11844645dee93a405cd2b3d89c79f1ca37031b9"
+    },
+    {
+      "path": "src/common/logging/logging.module.ts",
+      "bytes": 415,
+      "sha256": "a03f181a5b16ac9b796e70ff2ac25e152036254a73ca37656972018be9b0084c"
+    },
+    {
+      "path": "src/common/logging/request-context.service.spec.ts",
+      "bytes": 512,
+      "sha256": "a907dc2394de6fb21f040376022d725eac3181b2d37c94b1d3ba99a75209cb6a"
+    },
+    {
+      "path": "src/common/logging/request-context.service.ts",
+      "bytes": 476,
+      "sha256": "93c57e6f3bd410e05c5272dcf05f30d9f6cb8e9fdb7a106be2a1af75a3a7c95e"
+    },
+    {
+      "path": "src/common/logging/request-logging.middleware.ts",
+      "bytes": 2770,
+      "sha256": "6369b61d8aa0506053646e24200e444656bb0a8e0a0c9ce1b681a283fac45864"
+    },
+    {
+      "path": "src/common/logging/session-file-logger.ts",
+      "bytes": 3541,
+      "sha256": "7f2032c7d543eb8709b84c3a39a2046b7d521d4dc1a17c05594973b2f694d8b8"
+    },
+    {
+      "path": "src/common/types/index.ts",
+      "bytes": 148,
+      "sha256": "d24f5946bbe76c06d423d8835d98c7af477e1151fc09ff591c9e8b8aa5fa8c99"
+    },
+    {
+      "path": "src/common/validation/index.ts",
+      "bytes": 112,
+      "sha256": "d22183180a7fd42180cf1cf31d6a5ae13954df64ee2e6f15463e1a89fd529093"
+    },
+    {
+      "path": "src/common/validation/open-api-schema.ts",
+      "bytes": 569,
+      "sha256": "10b67a012a2ebe4bbcd9ef3cdfa2e5088704de588203984662064b6672da4c9b"
+    },
+    {
+      "path": "src/common/validation/zod-validation.pipe.spec.ts",
+      "bytes": 1652,
+      "sha256": "9a3113d1c8319623252a832010be829570cf06147fbea09f4fef6b5bb9cb5958"
+    },
+    {
+      "path": "src/common/validation/zod-validation.pipe.ts",
+      "bytes": 1621,
+      "sha256": "03730f22f455236e663497a072ae57f33febccedf0851f9b38995776e05bda5f"
+    },
+    {
+      "path": "src/config/config.module.ts",
+      "bytes": 443,
+      "sha256": "2781efeb9ae72e9c4c475094931211e4cdee9dc98e31f05b0d16244030de0a84"
+    },
+    {
+      "path": "src/config/configuration.ts",
+      "bytes": 3701,
+      "sha256": "e33e182dc24a69c8cb8213ef5c47f25787b88b566b568627a7cdd10312d288e3"
+    },
+    {
+      "path": "src/config/env.validation.ts",
+      "bytes": 9516,
+      "sha256": "cc4b160a49cfc52b6ead16ce20eba1e5442ae4b0f9af20e0b2eb7526cdc66f6a"
+    },
+    {
+      "path": "src/health/health.controller.ts",
+      "bytes": 454,
+      "sha256": "45d901bb5c8890ab1176be4c8db2a3091650882954cb13b71b5a6c3e1fbbb597"
+    },
+    {
+      "path": "src/health/health.module.ts",
+      "bytes": 172,
+      "sha256": "09b379f5dbecf2ac3f92ac60bb8e5c9cee86377125efcbb7dd1c4122e3bb766f"
+    },
+    {
+      "path": "src/llm/anthropic-client.ts",
+      "bytes": 815,
+      "sha256": "84bfb7b81667075d46b5f4411b3294ff8e7464420cdb6ef236ce1622a2ce558c"
+    },
+    {
+      "path": "src/llm/feedback/openai-rule-conflict-analyzer.service.ts",
+      "bytes": 3259,
+      "sha256": "b55ad1366093520a1b0404b380469dbab197630723b1ea520fbdaf15a543cd03"
+    },
+    {
+      "path": "src/llm/feedback/openai-rule-conflict-schema.ts",
+      "bytes": 1085,
+      "sha256": "057997e915b2b3b79f46549a3565f0d23f68416bbd767da899d64a9cb1c01756"
+    },
+    {
+      "path": "src/llm/generation/anthropic-generation-errors.ts",
+      "bytes": 2166,
+      "sha256": "3ca5e1dc113b0b2e09d5965dedaa370676e65fa1fb53d4892920013610ed145e"
+    },
+    {
+      "path": "src/llm/generation/generation-context-serializer.ts",
+      "bytes": 281,
+      "sha256": "2396586ddea96c7dd4a6e44b0ec7e55f03a137e8ac8ebd9313ab80e9b43b66fc"
+    },
+    {
+      "path": "src/llm/generation/generation-provider-selection.ts",
+      "bytes": 350,
+      "sha256": "a4ae42d6c574bab70b467eff572b1b851b7fd021802817bb3914b9f4d991adfb"
+    },
+    {
+      "path": "src/llm/generation/generation-provider.error.ts",
+      "bytes": 1503,
+      "sha256": "e53ec9fa5a4da580699191f377888ca2789f57788e1475534a9d548231736b04"
+    },
+    {
+      "path": "src/llm/generation/json-generation-context-serializer.ts",
+      "bytes": 574,
+      "sha256": "3a45d6508208afb69c47d237ad62f2220772e0eed5c4b27e3644d6a63fb40513"
+    },
+    {
+      "path": "src/llm/llm.module.ts",
+      "bytes": 3746,
+      "sha256": "e4994f4a1c3e607bac930123df78fc793fcbd85a123c297c5ad3a677bb33b056"
+    },
+    {
+      "path": "src/llm/openai-client.ts",
+      "bytes": 131,
+      "sha256": "c20bd4a5c51332b673f4ee0bebe2ac62dacbbff3e1f3c378920c60415bcae3e2"
+    },
+    {
+      "path": "src/llm/semantic-analysis/openai-semantic-analysis-errors.ts",
+      "bytes": 3900,
+      "sha256": "8eac2d133e2facfe3ea1e94e48ea6b49e178cb3c7ddd67a7ca5fb77db1615db0"
+    },
+    {
+      "path": "src/llm/semantic-analysis/openai-semantic-analysis-schema.ts",
+      "bytes": 3942,
+      "sha256": "c852f24a9d44d37a9acff802e9a6594919773bed65fa219df59445d6e6e57002"
+    },
+    {
+      "path": "src/llm/semantic-analysis/openai-semantic-analysis.service.ts",
+      "bytes": 9764,
+      "sha256": "d44a9b787ebc14e8dac6aba9585f90d43efd1eb30e2626ed7ff81bb5e0764e83"
+    },
+    {
+      "path": "src/llm/semantic-analysis/semantic-analysis-provider.error.ts",
+      "bytes": 1659,
+      "sha256": "ebf2af2a359383c28c3c57abf3dded3b7e17f8a990afa6813dea0c6e0113a89e"
+    },
+    {
+      "path": "src/llm/verification/openai-semantic-verification-errors.ts",
+      "bytes": 2800,
+      "sha256": "d6346135442fd598f403d377bdae0f583bffc75684b8325c49dcf950ab78374f"
+    },
+    {
+      "path": "src/llm/verification/openai-semantic-verification-schema.ts",
+      "bytes": 4897,
+      "sha256": "a1d4f2c6626bd7c987de572a1fbc832ba742927a32117a7e4a7f31a968da60f0"
+    },
+    {
+      "path": "src/llm/verification/semantic-verification-provider.error.ts",
+      "bytes": 1189,
+      "sha256": "f80d21b6f6207d11501fd813afd6d159a6cdf0c3cae9192b48e9e47e2862920e"
+    },
+    {
+      "path": "src/llm/verification/semantic-verification-schema.ts",
+      "bytes": 2366,
+      "sha256": "39cce05cf37d3a28e03b9ca48219613b3d9d2fb265a79128442a7100c7ef8e23"
+    },
+    {
+      "path": "src/main.ts",
+      "bytes": 1587,
+      "sha256": "742db37b4b375c151483e2cad364491e834dda007ff6cb5b2796767f4d37cefe"
+    },
+    {
+      "path": "src/persistence/postgres/drizzle.schema.ts",
+      "bytes": 1778,
+      "sha256": "9bcdc9d9191b7fc04ac2c4a65411eae73029a4a3e52820f04f17de1ce304e169"
+    },
+    {
+      "path": "src/persistence/postgres/persistence.module.ts",
+      "bytes": 787,
+      "sha256": "76838bf913e7bba238568af23ea9ae540251a9088451c0efa3c983f5fea9c283"
+    },
+    {
+      "path": "src/persistence/postgres/postgres-rule-candidate.repository.ts",
+      "bytes": 10277,
+      "sha256": "5bc2d5a43118d396214b9789002509e89bced93366414c91ba575816a2e56c2a"
+    },
+    {
+      "path": "src/persistence/postgres/postgres.database.ts",
+      "bytes": 2612,
+      "sha256": "e18915f7c1d3d7e6434aca38b5f22f148eba8d41c88e139255f3a4078dbd7138"
+    },
+    {
+      "path": "src/workflow/artifacts/working-artifact.resolver.ts",
+      "bytes": 1246,
+      "sha256": "37bedbf01b85d680a9f39f17bbbbcd541c90cc9f1cc0770455fe55441eece7eb"
+    },
+    {
+      "path": "src/workflow/attribution/attribution.contract.ts",
+      "bytes": 4547,
+      "sha256": "42eb18cc20d6486cdfc9eb2a35db760fdde70dd23da8dfbcb156353f5f2ca61d"
+    },
+    {
+      "path": "src/workflow/context-assembly/context-assembler.service.ts",
+      "bytes": 4014,
+      "sha256": "9cddbce0745e4f5973969d92b75257890c4aee9448bf952691b1ec6923b5e935"
+    },
+    {
+      "path": "src/workflow/context-assembly/context-assembly.types.ts",
+      "bytes": 2442,
+      "sha256": "e502af4fde64a7150b763f854e185aba9bb8a8692fa0de09495c908f4d353c28"
+    },
+    {
+      "path": "src/workflow/context-assembly/context-package-model-projection.ts",
+      "bytes": 2986,
+      "sha256": "1c3d1b96b4284feed8ec92b5214ce6da414616e09d92544fa5d0cef8390528b5"
+    },
+    {
+      "path": "src/workflow/conversation-context/conversation-context.builder.ts",
+      "bytes": 1105,
+      "sha256": "e60350b689a917112bf97b010bb663c287b62864ffa6c2eb6db1d61ea885f668"
+    },
+    {
+      "path": "src/workflow/conversation-context/conversation-context.types.ts",
+      "bytes": 671,
+      "sha256": "f7ae3a4b00499d03da8196bb54558616f9b909a4a247d6cc5c10bfc293cd2dd4"
+    },
+    {
+      "path": "src/workflow/feedback/committed-rule-retrieval.service.ts",
+      "bytes": 2538,
+      "sha256": "b392c8b322f453918b344ee080687c0df028d0cc20589176fc5bc79ef906cf64"
+    },
+    {
+      "path": "src/workflow/feedback/committed-rule.cache.ts",
+      "bytes": 2184,
+      "sha256": "15dea309730f2b48713b9d9efe076ca9cecea725655f83158fdd3800b21be1e0"
+    },
+    {
+      "path": "src/workflow/feedback/controlled-write.service.ts",
+      "bytes": 8518,
+      "sha256": "8f2c66a89ff7924acf3a527e2af1d8cbc4d7993d6b07505b755c1c64812ae1a1"
+    },
+    {
+      "path": "src/workflow/feedback/controlled-write.types.ts",
+      "bytes": 665,
+      "sha256": "c2d7ffd3eea155083a16528ed1679948f08fb1cf2c6665661e7cc63d670d272f"
+    },
+    {
+      "path": "src/workflow/feedback/feedback-analyzer.service.ts",
+      "bytes": 590,
+      "sha256": "940c47838285e51d18b5c0efdd934a6ed1ac7b818b7997b432f3a394b1dc012b"
+    },
+    {
+      "path": "src/workflow/feedback/feedback-approval.service.ts",
+      "bytes": 4516,
+      "sha256": "42cc294c184b6d81b7cc7c37f8beffd789ab4ba5b36eb9fb44b51a48e9469d64"
+    },
+    {
+      "path": "src/workflow/feedback/feedback-approval.types.ts",
+      "bytes": 974,
+      "sha256": "5e6dccbbd49d3baae33c14dc65b717da7bda4b1aa0f56b9dc675e120ab2c06ca"
+    },
+    {
+      "path": "src/workflow/feedback/feedback.types.ts",
+      "bytes": 6860,
+      "sha256": "de9eedff88bf34f39056b0f48a37c62f06e73aa4026665340d1f5caff1388072"
+    },
+    {
+      "path": "src/workflow/feedback/rule-candidate.persistence.service.ts",
+      "bytes": 2344,
+      "sha256": "129a8e4939362e224d53747df82e6c36e56f82cd9777aa59c6ba3416e607f74a"
+    },
+    {
+      "path": "src/workflow/feedback/rule-candidate.repository.ts",
+      "bytes": 918,
+      "sha256": "b570ada3ff7ea6b333b639abdfc2181079d14f8cacde8e5ed77c276f90a1babe"
+    },
+    {
+      "path": "src/workflow/feedback/rule-conflict-analyzer.service.ts",
+      "bytes": 320,
+      "sha256": "072a2b34792eabe2fdf48306fdd89693192416e2d624f26a59642e4a4324ad77"
+    },
+    {
+      "path": "src/workflow/feedback/rule-conflict.service.ts",
+      "bytes": 3377,
+      "sha256": "bc2f178a4be4c9bd7b86b76ad28ffe1c6c1d93a95c511481a7d31990bfa9b61f"
+    },
+    {
+      "path": "src/workflow/feedback/rule-conflict.types.ts",
+      "bytes": 916,
+      "sha256": "1093a94a5ed791977537e017f74de989d8aa994817b060595892a38bbc699b3a"
+    },
+    {
+      "path": "src/workflow/generation/generation.service.ts",
+      "bytes": 644,
+      "sha256": "afb6fcdc9285b1d9b7d24fe26c91c08a28b5868f9d1ef6620ae59ca6d025064f"
+    },
+    {
+      "path": "src/workflow/generation/generation.types.ts",
+      "bytes": 980,
+      "sha256": "36f1111a4afa87d516f3718defd25b304751a298423fab84e76c28f1ed88eb00"
+    },
+    {
+      "path": "src/workflow/interpretation/interpretation.service.ts",
+      "bytes": 945,
+      "sha256": "ab4100781a0a5c5d885557a16c2e698cfe72bc6049be345add862da9cb1e3f5e"
+    },
+    {
+      "path": "src/workflow/interpretation/interpretation.types.ts",
+      "bytes": 5915,
+      "sha256": "8ac141cc4be486a82b2eababc9cec1531f73aed42d99a2ce350eafcd63649ed2"
+    },
+    {
+      "path": "src/workflow/interpretation/semantic-analysis-interpretation.service.ts",
+      "bytes": 862,
+      "sha256": "68efff3ccc79a5f950b6759f6568d3c024bd98efac90ccb65e66a0969f32972f"
+    },
+    {
+      "path": "src/workflow/protection/deterministic-protection-checks.ts",
+      "bytes": 1301,
+      "sha256": "fd87400af079d62d86c88f96cfa60ba74a490ffbb25bedca5470e332971fd5c6"
+    },
+    {
+      "path": "src/workflow/protection/protection.service.ts",
+      "bytes": 3482,
+      "sha256": "6148099b7f489d98ada06b0ca2462d2a4fe6781c4c2fa69fb3b4fa9eaf8b0e35"
+    },
+    {
+      "path": "src/workflow/protection/protection.types.ts",
+      "bytes": 1434,
+      "sha256": "afc27e497882ab1467bb578c0c05772c8bf172c5e90027b4fd098a00bf6139ec"
+    },
+    {
+      "path": "src/workflow/retrieval/knowledge-candidate-filter.ts",
+      "bytes": 1212,
+      "sha256": "ca41f3b5a36d7c22d21ea7969e5a24fe7b6d980f9bf6f3fdacbb4b793e138442"
+    },
+    {
+      "path": "src/workflow/retrieval/knowledge-center-retrieval.error.ts",
+      "bytes": 515,
+      "sha256": "f11396b9279dd3add34f9fa9c1842b39f48fd0db50bcfc4184f478f4cfb9f299"
+    },
+    {
+      "path": "src/workflow/retrieval/knowledge-center-retrieval.service.ts",
+      "bytes": 4555,
+      "sha256": "2f2744cfe9cf9f3e51af4ab489dfc26b4dd10422d6a6a8b058cff97773b80717"
+    },
+    {
+      "path": "src/workflow/retrieval/knowledge-retrieval-provider-selection.ts",
+      "bytes": 440,
+      "sha256": "f42bfe195a446be287152c0af8cd20f2826ad6fcf451e450600bee95f784eb25"
+    },
+    {
+      "path": "src/workflow/retrieval/knowledge-retrieval.service.ts",
+      "bytes": 661,
+      "sha256": "9f3a6ed368cdda2b8fede646fda39861f0e348a6c9da4465d6ffd30a74de8d7a"
+    },
+    {
+      "path": "src/workflow/retrieval/retrieval-policy.ts",
+      "bytes": 620,
+      "sha256": "fa46cab286070254065387a7dfb4350a7bec9462a8c69581c04b24f93b53f674"
+    },
+    {
+      "path": "src/workflow/retrieval/retrieval.types.ts",
+      "bytes": 1516,
+      "sha256": "6695e01143f7da319bd53a4fddfcc4cfdeb6fcf9a8ad0dab91bfea1cee630e33"
+    },
+    {
+      "path": "src/workflow/retrieval/zero-knowledge-policy.ts",
+      "bytes": 1058,
+      "sha256": "04c156ca3e6ca1af6c37ea1878dea3b08b679ed2b7368789c5ef142402722c93"
+    },
+    {
+      "path": "src/workflow/semantic-analysis/semantic-analysis.service.ts",
+      "bytes": 676,
+      "sha256": "9c6611365e2369a3eb5c3fe581db78a772a6c0ae80d75617b0dbfe1af971c5e4"
+    },
+    {
+      "path": "src/workflow/semantic-analysis/semantic-analysis.types.ts",
+      "bytes": 1415,
+      "sha256": "c1e86b713d753ab4b0c3a7a1f892e047077379ece14a9c24f31ef21cc7ebc3c5"
+    },
+    {
+      "path": "src/workflow/verification/attribution-diagnostics.service.ts",
+      "bytes": 3565,
+      "sha256": "e7a638e60f3c7744820e7108a91c7ca25f54d1db344cb1d2d0cbb290239aa688"
+    },
+    {
+      "path": "src/workflow/verification/attribution-verification-resolver.ts",
+      "bytes": 1989,
+      "sha256": "d0b982e54cadedcccc1638abb87929319e32b1d98bae236c3634618ccf5b2393"
+    },
+    {
+      "path": "src/workflow/verification/semantic-verification-provider-selection.ts",
+      "bytes": 321,
+      "sha256": "852abb6e69677f4690c7c94d7859b27ed32b9b483fcf0ae693132ed64ea0c090"
+    },
+    {
+      "path": "src/workflow/verification/semantic-verification.service.ts",
+      "bytes": 535,
+      "sha256": "e5789b564e57b391f605954a81750cc8e3bb55f0f215e0c623e6a2e422f4dfe5"
+    },
+    {
+      "path": "src/workflow/verification/verification.constants.ts",
+      "bytes": 171,
+      "sha256": "e5c1eb8eaad2edfdb3ac39dfbe731b5e791a6adb750c4c65e4b35d4f1e472207"
+    },
+    {
+      "path": "src/workflow/verification/verification.service.ts",
+      "bytes": 6974,
+      "sha256": "a06ed0e98e5c7d86dbb73166c30d9530d7dd01697049a7d6f80893dae57288c8"
+    },
+    {
+      "path": "src/workflow/verification/verification.types.ts",
+      "bytes": 3391,
+      "sha256": "fc720ade916720c64af5f023447fd89792bde5cd49b0274c694351a360f72b7e"
+    },
+    {
+      "path": "src/workflow/workflow-failure.ts",
+      "bytes": 2499,
+      "sha256": "7c9256777ab2fca517dd3bc7a08936197c9a1a3b693aae024f47025eea81e0a5"
+    },
+    {
+      "path": "src/workflow/workflow.module.ts",
+      "bytes": 6339,
+      "sha256": "0b38080a4a248bcbce4f4426f3e01c290a2ab8828ce6946435dce502faa71b5a"
+    },
+    {
+      "path": "src/workflow/workflow.service.ts",
+      "bytes": 43095,
+      "sha256": "96dcad130b5eb19dc88961da6263ce2e43016ed938792539b10d70825c5e932d"
+    },
+    {
+      "path": "src/workflow/workflow.state.ts",
+      "bytes": 3367,
+      "sha256": "09a60324c23d1f65d94d91c2f71eaf990e6b7c91fc7d32cfb9f62957f988d3ce"
+    },
+    {
+      "path": "tsconfig.build.json",
+      "bytes": 127,
+      "sha256": "d5ce09108d063e19582753b0fbd023ae4f6107157126d63a5e9e85dc4adc8095"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 650,
+      "sha256": "11902093e2b209175c2ebd5ddc128f0ad271bfb1ed8a0131bfc2077715d0efcc"
+    }
+  ]
+}
